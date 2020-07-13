@@ -1,5 +1,5 @@
 # DataScienceCapstone
- 
+I am editing the README file.Adding some more details about the project description 
 This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
 ## Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
